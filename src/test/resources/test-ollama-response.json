@@ -1,0 +1,22 @@
+{
+  "id": "chatcmpl-361",
+  "object": "chat.completion",
+  "created": 1745181334,
+  "model": "mistral:latest",
+  "system_fingerprint": "fp_ollama",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Why did the monkey fall out of the tree? Because it was dead!"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 9,
+    "completion_tokens": 50,
+    "total_tokens": 59
+  }
+}
