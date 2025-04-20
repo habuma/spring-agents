@@ -9,6 +9,12 @@ If it wasn't clear from that description, this is a work in progress and is not
 intended for production use. It still has missing pieces and there is more work
 to be done. But it's a good start.
 
+Even though it's an experiment, I'd love to hear suggestions in the form of
+issues or pull requests. It may be something I already have in mind, so I may
+not accept it...but it also may be something I didn't think of, so suggest anyway.
+Also, feel free to share this with others and use it however you will. I only
+ask that you give me credit and a shout-out to let me know what you're doing.
+
 ## Key Components
 
 The key components in play are:
